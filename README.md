@@ -19,7 +19,7 @@ run python -m spacy download en_core_web_sm
 
 This repository contains the notebook ```NLU_Project.ipynb``` for the first assignment for the NLU course of 2020/2021. The project contains the functions implemented to solve the exercises proposed. I added some additional code to test them with a common sentence used during the classes. 
 
-There is no Data directory because no dataset has been used. The sentences used to test the functions are available in each ```NLU_Project.ipynb```. 
+There is no Data directory because no dataset has been used. The sentences used to test the functions are available in ```NLU_Project.ipynb```. 
 
 Inside the notebook there is a description of all the five functions above each block as a report.
 
